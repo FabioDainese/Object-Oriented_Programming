@@ -28,7 +28,7 @@ The cards made available to the players are:
 * **Ancestral Mask**: (*Enchantment*) Enchanted creature gets +2/+2 for each other enchantment on the battlefield;
 * **Argothian Enchantress**: (*Creature - [0/1]*) Shroud (This permanent/creature can't be the target of spells or abilities). Whenever you cast an enchantment spell, draw a card;
 * **Aura Blast**: (*Instant*) Destroy target enchantment. Draw a card;
-* **BarkshellBlessing**: (*Instant*) Target creature gets +2/+2 until end of turn;
+* **Barkshell Blessing**: (*Instant*) Target creature gets +2/+2 until end of turn;
 * **Benevolent Ancestor**: (*Creature - [0/4]*) Defender (this creature can't attack). Prevent the next 1 damage that would be dealt to target or player this turn;
 * **Boiling Earth**: (*Sorcery*) Boiling Earth deals 1 damage to each creature;
 * **Bronze Sable**: (*Creature - [2/1]*) "The Champion stood alone between the horde of the Returned and the shrine to Karametra, cutting down scores among hundreds. She would have been overcome if not for the aid of the temple guardians whom Karametra awakened";
