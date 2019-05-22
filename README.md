@@ -7,9 +7,10 @@ All the material was developed for the '*Object-Oriented Programming*' [Ca' Fosc
 The idea behind this project was to developed a *simpler* version of the [**Magic: The Gathering**](https://en.wikipedia.org/wiki/Magic:_The_Gathering) card table game. 
 With '*simpler*' version we mean that there's only few cards available, 23 uniqie cards to choose from, over the thousands that the actual game offers. Another simplification was made by removing some *gameplay* phases/settings.
 
-Once you'll start the game there will be an inithial setup phase, where the *two* players can choose their *battle* names (ID) and their decks. To use a particular deck you'll need to provide to the system a file name, including its extension. You can find a *test* desk at [`'Project/Magic/test.deck'`](Project/Magic/test.deck) (so for example, when the game asks you to provide the file name you just need to enter `test.deck`), but feel free to create new ones! 
-Keep in mind to place them in the right folder `'Project/Magic/'` or you'll need to provide/enter the absolute file path. 
-After this initial phase it will start the actual *battle*.
+Once you'll start the game there will be an inithial setup phase, where the *two* players can choose their *battle* names (ID) and their decks. To use a particular deck you'll need to provide to the system a file name, including its extension. You can find a *test* desk at [`'Project/Magic/test.deck'`](Project/Magic/test.deck) (so for example, when the game asks you to provide the file name you just need to enter `test.deck`), but feel free to create new ones!
+Keep in mind to place them in the right folder (`'Project/Magic/'`) or you'll need to provide/enter the absolute file path once the game has started. 
+
+After this initial phase it will start the actual *battle* phase.
 
 The *game* was designed to be played as a textual version using the console (*STDIN,STDOUT*).
 
