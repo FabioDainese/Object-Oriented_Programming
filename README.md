@@ -14,9 +14,9 @@ After this initial phase it will start the actual *battle* phase.
 
 The *game* was designed to be played as a textual version using the console (*STDIN,STDOUT*).
 
-**N.B.** This project was developed using the *NetBeans IDE*, so all the additional files that you'll find are useful to run it through that platform by simply importing all the project, but if you want to simply run it through the terminal just move to the `'Project/Magic/dist/'` folder and type `java -jar Magic.jar` (in this case you'll need to provide the absolute file path for the players' decks).
+**N.B.** This project was developed using the *NetBeans IDE*, so all the additional files that you'll find are useful to run it through that platform by simply importing all the project, but if you want to run it through the terminal just move to the `'Project/Magic/dist/'` folder and type `java -jar Magic.jar` (in this case you'll need to provide the absolute file path for the players' decks).
 
-Meanwhile if you want to read the actual *Java* game files (source code) you can find them at the following path [`'Project/Magic/src/magic/'`](Project/Magic/src/magic/).
+Meanwhile if you want to read the actual *Java* game files (source code) you can find them at the following path:  [`'Project/Magic/src/magic/'`](Project/Magic/src/magic/).
 
 ### Cards
 The cards made available to the players are: 
